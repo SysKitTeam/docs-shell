@@ -3,4 +3,4 @@ layout: landing.pug
 title: Welcome to SysKit Shell Documentation 
 ---
 
-SysKit Shell is a new solution that allows system admins to run or schedule PowerShell Scripts on multiple servers simultaneously. The tool eliminates repetitive tasks and offers complete control over all remote servers from one central console. 
+Get started with SysKit Shell - a sysadmin's most powerfull tool. With its set of built-in features, SysKit Monitor can make system adminstration more efficient and definitely much more fun. Whatever you're documenting and administering, these guides are designed to get you productive as quickly as possible when using SysKit Shell.
