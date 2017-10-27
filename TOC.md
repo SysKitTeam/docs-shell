@@ -16,6 +16,9 @@ Make sure that your environment and the account used for the application meet Sy
 # [Installation and Configuration](installation-configuration.md)
 Learn how to install and configure SysKit Shell or update it to the latest version. In just a couple of clicks you are ready to go!
 
+# [Activation](activation.md)
+Activate your fully featured version and explore all the amazing reports.
+
 # [How To](how-to.md)
 In this section you will find many useful "How To" articles for best results and better usage of SysKit Shell.
 
