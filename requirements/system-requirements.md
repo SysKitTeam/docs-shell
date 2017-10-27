@@ -1,40 +1,30 @@
 ---
 title: System Requirements
-desription: This article discusses the hardware and software requirements that are necessary in order to install the SysKit Monitor.
+desription: This article discusses the hardware and software requirements that are necessary in order to install the SysKit Shell.
 author: Andrea Budisa
 date: 25/10/2017
 ---
 ## Hardware requirements
 
-__1. SysKit Monitor application server__
+__SysKit Shell application and database server__
 
-These are minimum hardware requirements for deploying the __SysKit Monitor__, including the deployment of the __Microsoft SQL Server 2012 Express LocalDB__, for a single-server installation or farm installation.
+These are minimum hardware requirements for deploying the __SysKit Shell__, including the deployment of the __Microsoft SQL Server 2012 Express LocalDB__, for a single-server installation or farm installation.
 
 + __Processor:__ 2.5 GHz; for more than 100 servers, we recommend a processor with at least 4 cores
-+ __RAM:__ 2 GB
-+ __Disk:__ NTFS file system-formatted partition with a minimum of 200 MB of free space
++ __RAM:__ 4 GB
++ __Disk:__ NTFS file system-formatted partition with a minimum of 500 MB of free space
 + __Display:__ 1366 × 768
 
-> __Please note!__ If you are using the SysKit Monitor Web application, it is necessary to have at least 4 GB of RAM.
-
-__2. SQL database server__
-
-These are minimum hardware requirements for deploying the __SQL Database__ for the SysKit Monitor:
-
-+ __Processor:__ 2.5 GHz; for more than 100 servers, we recommend a processor with at least 4 cores
-+ __RAM:__ 2 GB; for more than 100 servers, we recommend at least 8 GB
-+ __Disk:__ NTFS file system-formatted partition with a minimum of 40 GB of free space
-+ __Display:__ 1366 × 768
-
-> __Please note!__ Under normal conditions, the application will take around 40MB of data per server each month for a server that hosts approximately 50 users.
+> __Please note!__ Under normal conditions, the application will take around 10 MB of data per server each month for a server, depending on the number of scripts as well as their purpose and result size.
 
 ## Prerequisites
 
-Before installing the SysKit Monitor, you need to install __.NET Framework 4.5.2__ or later. We recommend that you install the latest version of .NET from the [Microsoft .NET website](https://www.microsoft.com/NET/). If you do not have .NET Framework 4.5.2 installed on your server, the SysKit Monitor installation will offer to perform the installation automatically.
+Before installing the SysKit Shell, you need to install __.NET Framework 4.5.2__ or later. We recommend that you install the latest version of .NET from the [Microsoft .NET website](https://www.microsoft.com/NET/).  
+Before starting the installation process, the SysKit Shell installer will automatically perform the installation of __Microsoft Visual C++ Runtime 14.0__.
 
 ## Operating System
 
-The SysKit Monitor runs on Windows Server 2008 SP2 or later. We recommend that you apply all critical updates.
+The SysKit Shell runs on Windows Server 2008 SP2 or later. We recommend that you apply all critical updates.
 You can use the following __Windows Server__ editions: __Windows Server 2008 – 2016__, all editions. The SysKit Monitor is a 64-bit application that runs on all versions of the above listed operating systems.
 
 ## Database System
@@ -58,7 +48,7 @@ Proceed to: [User Permission Requirements](#internal/requirements/user-permissio
 
 ## Supported technologies and platforms
 
-SysKit Monitor supports monitoring of the technologies and platforms listed below.
+SysKit Shell supports monitoring of the technologies and platforms listed below.
 + __Remote Desktop Services__
 + __Windows Server__ editions: Windows Server 2008 – 2016, all editions
 + __SQL Server__ editions: SQL Server 2008 – 2016, all editions
