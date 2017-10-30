@@ -2,7 +2,7 @@
 title: User Permission Requirements
 desription: This article discusses the necessary Service Account you need in order to run the SysKit Shell in various environments and describes deployment scenarios that affect account requirements.
 author: Andrea Budisa
-date: 25/10/2017
+date: 30/10/2017
 ---
 Please read this article before choosing your service account.
 
@@ -26,7 +26,7 @@ There are two ways to add a service user to the Local Administrators security gr
 
 ### SQL Server setup
 
-+ SysKit Shell is using the Windows Authentication to access the database – the service user will be used for authentication on the SQL Server instance.
++ SysKit Shell is using the Windows Authentication to access the database – the service user will be used for authentication on the SQL LocalDB instance.
 
 > __Learn more about the LocalDB__   
 __LocalDB__ is an instance of SQL Server Express that can create and open SQL Server databases. Once LocalDB is installed, the necessary SQL Server infrastructure is automatically created and started, enabling the application to use the database without complex configuration tasks.  

@@ -1,14 +1,14 @@
 ---
 title: Activation FAQ
-description: This article outlines frequently asked questions regarding the SysKit Monitor activation.
+description: This article outlines frequently asked questions regarding the SysKit Shell activation.
 author: Andrea Budisa
-date: 24/5/2017
+date: 30/10/2017
 ---
 ### What happens during product activation?
-Product activation is a simple step that takes place during registration of your SysKit Monitor. The users need to enter their product activation code, which is authenticated against the SysKit product activation server to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
+Product activation is a simple step that takes place during registration of your SysKit Shell. The users need to enter their product activation code, which is authenticated against the SysKit product activation server to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
 
 ### Who will be required to activate their products?
-Anyone who purchases the SysKit Monitor will be required to activate the product. If the product is ordered online from the SysKit website, the product activation code will be sent via e-mail.
+Anyone who purchases the SysKit Shell will be required to activate the product. If the product is ordered online from the SysKit website, the product activation code will be sent via e-mail.
 
 ### How soon must I activate my product?
 You must activate your product within 30 days of the trial period.
@@ -38,11 +38,11 @@ Product activation is a one-time procedure that is typically completed immediate
 ### When is product reactivation required?
 Product reactivation is required only under exceptional circumstances — if, for example, you upgrade or replace your computer, or if the activation process detects that the license has been tampered with. If you have migrated to a new server or reinstalled the existing server, you should [contact us](https://www.syskit.com/company/contact-us) to re-activate your license.
 
-### What if I have more than one server? Does the SysKit Monitor license allow me to use the software on multiple servers?
-It is allowed to activate the SysKit Monitor license on one server only. If you want to use the SysKit Monitor on multiple servers, you will need to purchase an additional license for every server.
+### What if I have more than one server? Does the SysKit Shell license allow me to use the software on multiple servers?
+It is allowed to activate the SysKit Shell license on one server only. If you want to use the SysKit Shell on multiple servers, you will need to purchase an additional license for every server.
 
-### How can I change the SysKit Monitor license key?
-To remove your current SysKit Monitor license key and add a new license key, please follow these steps:
+### How can I change the SysKit Shell license key?
+To remove your current SysKit Shell license key and add a new license key, please follow these steps:
 1. Navigate to __File__ > __Help__.
 2. Click the __Change key__ button.
 3. Click on the option __Change key__.
