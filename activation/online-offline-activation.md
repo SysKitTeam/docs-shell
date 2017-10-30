@@ -38,10 +38,10 @@ Customers that have no internet access on their servers will need to activate Sy
 
 3. Return to the SysKit Shell application and import the license file by clicking the __Browse...__ button, locating your license file and opening it.
 
-4. Click the __Activate__ button in the SysKit Shell Offline Activation dialog.
-Login to our Customers Portal, navigate to the product key, and on the activation page, write product key that has been provided to you upon purchase.
-3. On the activation page, write your server name.
-4. Download the license file.
-5. Import the license file into SysKit Monitor and click the Activate button in the .
+4. Click the __Activate__ button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
+   > __Please note!__ The __license file (.lic)__ is only valid for the user account and server where the __License Details (.dlic)__ file was generated in step 2.
 
-See [Activation FAQ](#internal/activation/activation-faq/) to learn more about SysKit Monitor activation.
+At any time you can login to our Customers Portal and navigate to the list of your licensed products.  
+If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
+
+See [Activation FAQ](#internal/activation/activation-faq/) to learn more about SysKit Shell activation.
