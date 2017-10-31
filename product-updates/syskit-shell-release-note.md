@@ -1,6 +1,6 @@
 ---
 title: SysKit Shell – Document and script all the things!
-description: This article describes all new features, improvements and bug fixes delivered in SysKit Shell.
+description: This article describes all the features and benefits delivered in SysKit Shell.
 author: Andrea Budisa
 date: 2/11/2017
 ---
@@ -11,14 +11,15 @@ Our development team definitely made a conscious effort in getting big things do
 
 With our tool you can make __PowerShell Scripts__ and import and execute any __script__ you can think of! How does it work?
 
-SysKit Shell provides you with a __built-in PowerShell Script wizard__ for writing and saving scripts. With this feature, all created PowerShell scripts can be executed with just a few clicks! These scripts can be executed on a number of servers through the __Run Setup__ dialog.
+SysKit Shell provides you with a __built-in PowerShell Script wizard__ for writing and saving scripts. With this feature, all created PowerShell scripts can be executed with just a few clicks! These scripts can be executed on a number of servers through the __Run Setup__ dialog.  
+SysKit Shell brings almost __twenty PowerShell scripts__ that are ready for you to explore!
 
 If you have no time to write PowerShell Scripts, __PowerShell modules__ are quick and easy way to do the task you need!   
 SysKit Shell comes with integrated support for browsing and installing modules from __PowerShell Gallery__. With the __Manage modules__ feature, you can download a bunch of high quality reusable modules, use them like puzzle pieces and build automation solutions in minutes! Awesome, isn’t it?
 
 We’re always eager to hear your feedback and suggestions!
 
-[Click here to download the new release.](https://www.syskit.com/products/shell/download)
+[Click here to download the release.](https://www.syskit.com/products/shell/download)
 
 Product version: 1.0.0  
 Build number:   
@@ -33,8 +34,12 @@ Release date: Nov 2, 2017
 + PowerShell Scripts within SysKit Shell are designed to make it as easy as possible for you to take control of and simplify the management of your Windows environments whether you are writing scripts or administering software.
 + This section includes __eighteen predefined PowerShell scripts__ categorized by their purpose.
 + Most of the available PowerShell scripts are tied to a specific server role— such as __Domain Controller__ and __SharePoint__, while others can run on all types of servers. It is very important to read the script description.
+
+#### PowerShell Wizard
+
 + The __built-in PowerShell Script wizard__ brings syntax highlighting and colors to the editor and displays the results of the commands and scripts you have run. One of the key parts of the wizard is PowerShell script error handling, which is the same as in Windows PowerShell.
 + Our built-in PowerShell wizard supports __importing__ Windows PowerShell scripts with a __.ps1 extension__.
++ Wizard also supports the __CredSSP authentication__. In some cases, a PowerShell script may need to access resources outside of the remote server machine. This requires that the credentials be delegated to the target machine.
 + Created PowerShell scripts can be tied to a __specific server role__ and can be __executed__ for all or specific servers.
 
 #### PowerShell Modules
