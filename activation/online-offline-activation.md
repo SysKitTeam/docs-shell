@@ -17,7 +17,7 @@ In order to activate your copy of the SysKit Shell __online__, please proceed wi
 
 You can activate your license on a __purchased number of servers__ while your subscription is active.
 
-At any time you can login to our Customers Portal and navigate to the list of your licensed products.  
+At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
 If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
 
 ### Offline Activation
@@ -41,7 +41,9 @@ Customers that have no internet access on their servers will need to activate Sy
 4. Click the __Activate__ button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
    > __Please note!__ The __license file (.lic)__ is only valid for the user account and server where the __License Details (.dlic)__ file was generated in step 2.
 
-At any time you can login to our Customers Portal and navigate to the list of your licensed products.  
+You can activate your license on a __purchased number of servers__ while your subscription is active. Please keep in mind that the __License Details (.dlic) file__ needs to be generated and on each server covered by your license, separately. 
+
+At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
 If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
 
 See [Activation FAQ](#internal/activation/activation-faq/) to learn more about SysKit Shell activation.

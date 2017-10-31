@@ -5,26 +5,26 @@ author: Andrea Budisa
 date: 30/10/2017
 ---
 ### What happens during product activation?
-Product activation is a simple step that takes place during registration of your SysKit Shell. The users need to enter their product activation code, which is authenticated against the SysKit product activation server to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
+Product activation is a simple step that takes place during registration of your SysKit Shell. The users need to enter their product activation data, which is authenticated against the SysKit product activation server to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
 
 ### Who will be required to activate their products?
-Anyone who purchases the SysKit Shell will be required to activate the product. If the product is ordered online from the SysKit website, the product activation code will be sent via e-mail.
+Anyone who purchases the SysKit Shell will be required to activate the product. If the product is ordered online from the SysKit website, the product activation information will be sent via e-mail.
 
 ### How soon must I activate my product?
 You must activate your product within 30 days of the trial period.
-If you do not activate your product by the end of the 30 day trial period, it will stop collecting all activities and data until you activate it.
+If you do not activate your product by the end of the 30 day trial period, it will stop collecting all data until you activate it.
 
-### If I do not have a product activation code to activate my software, how can I get it?
-If you cannot find your product activation code, you should send in a support request to our [support team](https://www.syskit.com/company/contact-us).
+### If I do not have a product activation information to activate my software, how can I get it?
+If you cannot find your product activation information, you should send in a support request to our [support team](https://www.syskit.com/company/contact-us).
 
 ### How can I activate my product?
-You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation code and press activate. You must have a connection to the Internet to activate your product.
+You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to Internet, please use [offline activation](#internal/activation/online-offline-activation/).
 
 ### What does SysKit do with the information sent during the product activation process?
 We use this information only to verify that your product is used within the scope of the SysKit End-User License Agreement (EULA). The information is stored in a database and used only for product activation data. If you register your product, none of the activation information will ever be linked to your personal customer information.
 
 ### What is product activation?
-Product activation is an anonymous, secure and hassle-free process that authenticates licensed users during the installation process. The process verifies that the product activation code is legitimate and has not been activated on more systems than allowed by the SysKit End-User License Agreement (EULA).
+Product activation is an anonymous, secure and hassle-free process that authenticates licensed users during the installation process. The process verifies that the product activation information is legitimate and has not been activated on more systems than allowed by the SysKit End-User License Agreement (EULA).
 
 ### Why does SysKit require its customers to activate the software?
 Product activation is a simple way to reduce and deter unauthorized use and casual copying of SysKit products with a minimal effect on our loyal customers.
@@ -43,10 +43,9 @@ It is allowed to activate the SysKit Shell license on one server only. If you wa
 
 ### How can I change the SysKit Shell license key?
 To remove your current SysKit Shell license key and add a new license key, please follow these steps:
-1. Navigate to __File__ > __Help__.
-2. Click the __Change key__ button.
-3. Click on the option __Change key__.
-4. Click __OK__.
-5. Enter the new product key and click Activate.
+1. Navigate to the __About__ dialog by clicking on the __Info__ icon in the left upper corner, and then click the __Deactivate__ button.
+2. Click the __Activate__ button and in the newly opened activation dialog, 
+fill in all the required fields by using the __email account__ and __password__.
+3. Click the __Activate__ button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
 
-You will find your new license key at your profile in our [Customers Portal](https://my.syskit.com).
+At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.
