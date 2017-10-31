@@ -10,7 +10,7 @@ __SysKit Shell application and database server__
 
 These are minimum hardware requirements for deploying the __SysKit Shell__, including the deployment of the __Microsoft SQL Server 2012 Express LocalDB__, for a single-server installation or farm installation.
 
-+ __Processor:__ 2.5 GHz; for more than 100 servers, we recommend a processor with at least 4 cores
++ __Processor:__ 2.5 GHz we recommend a processor with at least 4 cores
 + __RAM:__ 10 GB
 + __Disk:__ NTFS file system-formatted partition with a minimum of 10 GB of free space
 + __Display:__ 1366 × 768
