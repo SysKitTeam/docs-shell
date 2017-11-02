@@ -22,7 +22,7 @@ We’re always eager to hear your feedback and suggestions!
 [Click here to download the release.](https://www.syskit.com/products/shell/download)
 
 Product version: 1.0.0  
-Build number: 323  
+Build number: 324  
 Database version: 1.0.0
 
 Release date: Nov 2, 2017
@@ -60,4 +60,4 @@ That way the servers you are monitoring do not require internet connection.
 ### What is the SysKit Shell Licensing model?
 
 + We are introducing the SysKit Shell __Subscription license__. This will allow customers to have usage rights to all releases while their subscriptions are active. 
-+ The license is tied to an __user account__, it can be purchased __per year__, and is renewable. Choose the SysKit Shell subscription that’s right for you [here](https://syskit.com/products/shell/pricing/).
++ The license is tied to an __user account__, it can be purchased __per year__, and is renewable. Choose the SysKit Shell subscription that’s right for you [here](https://www.syskit.com/products/shell/pricing/).

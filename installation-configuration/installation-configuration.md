@@ -30,6 +30,14 @@ This is the quickest option. We take care of the configuration.
 
 Once the installation is completed, the SysKit Shell will start. If the application does not start automatically after installation, you can run it manually from: __Start > All Programs > SysKit Shell__.
 
+## Set-ExecutionPolicy
+
+Before you can explore the UI and run scripts, there is one more thing to do! You need to change the current user preference for the Windows PowerShell execution policy by running the following command:
+
+    Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force
+
+This will let you load all configuration files and run all scripts. If you run an unsigned script that was downloaded from the Internet, you will be prompted for permission before it runs.
+
 ### Problems with Installation and Configuration
 
 Most problems are related to SysKit Shell Service authentication against the Active Directory or the SQL Server instance. If you are experiencing problems with installation, please [contact us](https://www.syskit.com/company/contact-us). Our team will schedule a support call and help you install the SysKit Shell remotely.
