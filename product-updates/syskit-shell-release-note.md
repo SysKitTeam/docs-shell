@@ -11,7 +11,7 @@ Our development team definitely made a conscious effort in getting big things do
 
 With our tool you can make __PowerShell Scripts__ and import and execute any __script__ you can think of! How does it work?
 
-SysKit Shell provides you with a __built-in PowerShell Script wizard__ for writing and saving scripts. With this feature, all created PowerShell scripts can be executed with just a few clicks! These scripts can be executed on a number of servers through the __Run Setup__ dialog.  
+SysKit Shell provides you with a __built-in PowerShell Script wizard__ for writing and saving scripts. With this feature, all created PowerShell scripts can be executed with just a few clicks! These scripts can be executed on a number of servers through the __Run__ dialog.  
 SysKit Shell brings almost __twenty PowerShell scripts__ that are ready for you to explore!
 
 If you have no time to write PowerShell Scripts, __PowerShell modules__ are quick and easy way to do the task you need!   
@@ -22,7 +22,7 @@ We’re always eager to hear your feedback and suggestions!
 [Click here to download the release.](https://www.syskit.com/products/shell/download)
 
 Product version: 1.0.0  
-Build number:   
+Build number: 323
 Database version: 1.0.0
 
 Release date: Nov 2, 2017
@@ -39,7 +39,7 @@ Release date: Nov 2, 2017
 
 + The __built-in PowerShell Script wizard__ brings syntax highlighting and colors to the editor and displays the results of the commands and scripts you have run. One of the key parts of the wizard is PowerShell script error handling, which is the same as in Windows PowerShell.
 + Our built-in PowerShell wizard supports __importing__ Windows PowerShell scripts with a __.ps1 extension__.
-+ Wizard also supports the __CredSSP authentication__. In some cases, a PowerShell script may need to access resources outside of the remote server machine. This requires that the credentials be delegated to the target machine.
++ Wizard has support for the __CredSSP authentication__. In some cases, a PowerShell script may need to access resources outside of the remote server machine. This requires that the credentials be delegated to the target machine.
 + Created PowerShell scripts can be tied to a __specific server role__ and can be __executed__ for all or specific servers.
 
 #### PowerShell Modules
@@ -59,4 +59,5 @@ That way the servers you are monitoring do not require internet connection.
 
 ### What is the SysKit Shell Licensing model?
 
-+ We are introducing the SysKit Shell __Subscription license__. This will allow customers to have usage rights to all releases while their subscriptions are active. The license is tied to an __user account__, it can be purchased __per year__, and is renewable.
++ We are introducing the SysKit Shell __Subscription license__. This will allow customers to have usage rights to all releases while their subscriptions are active. 
++ The license is tied to an __user account__, it can be purchased __per year__, and is renewable. Choose the SysKit Shell subscription that’s right for you [here](https://syskit.com/products/shell/pricing/).
