@@ -51,16 +51,16 @@ Use below PowerShellGet cmdlet from an elevated PowerShell session to save the m
     Exit
 
 + Ensure that PowerShellGet and PackageManagment modules are not loaded in any other processes.
-+ Delete contents of:
++ Delete contents of these folders:
 
         $env:ProgramFiles\WindowsPowerShell\Modules\PowerShellGet\
-        $env:ProgramFiles\WindowsPowerShell\Modules\PackageManagement\ folders.
+        $env:ProgramFiles\WindowsPowerShell\Modules\PackageManagement\.
 + Re-open the PS Console with elevated permissions then run the following commands:
 
       Copy-Item "C:\LocalFolder\PowerShellGet\*" "$env:ProgramFiles\WindowsPowerShell\Modules\PowerShellGet\" -Recurse -Force
       Copy-Item "C:\LocalFolder\PackageManagement\*" "$env:ProgramFiles\WindowsPowerShell\Modules\PackageManagement\" -Recurse -Force
 
-### For systems with PowerShell 5.0 (or newer) you can install the latest PowerShellGet
+### For systems with PowerShell 5.0 (or newer) - install the latest PowerShellGet
 
 To do this on Windows 10, Windows Server 2016, any system with WMF 5.0 or 5.1 installed, or any system with PowerShell 6, run the following commands from an elevated PowerShell session:
 
