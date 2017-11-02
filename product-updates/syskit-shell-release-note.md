@@ -22,7 +22,7 @@ We’re always eager to hear your feedback and suggestions!
 [Click here to download the release.](https://www.syskit.com/products/shell/download)
 
 Product version: 1.0.0  
-Build number: 323
+Build number: 323  
 Database version: 1.0.0
 
 Release date: Nov 2, 2017
