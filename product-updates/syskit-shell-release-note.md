@@ -44,11 +44,11 @@ Release date: Nov 2, 2017
 
 #### PowerShell Modules
 
-+ PowerShell modules are quick and easy way to do the task you need without writing PowerShell Scripts by yourself.
-+ SysKit Shell has integrated support for browsing and installing modules from __PowerShell Gallery__.
-+ You can customize execution of script and cmdlets from modules by supplying your own parameters sets.
-+ If downloaded modules require __CredSSP__ to run their cmdlets or scripts SysKit Shell will handle that problem for you. All you have to do is to supply the credentials.
-+ If you don't trust an online source you can always look at the source code by yourself, SysKit Shell will give you a direct link to see the script online before downloading it.
++ PowerShell modules are a quick and easy way to do a specific task without writing PowerShell Scripts by yourself.
++ SysKit Shell has integrated support for browsing and installing modules from the __PowerShell Gallery__.
++ You can customize the execution of scripts and cmdlets from modules by supplying your own parameter sets.
++ If downloaded modules require __CredSSP__ to run their cmdlets or scripts, SysKit Shell will handle that problem for you. All you have to do is supply the credentials.
++ If you don't trust an online source, you can always look at the source code by yourself. SysKit Shell will give you a direct link to see the script online before downloading it.
 + You don't have to install modules on all the servers where you plan to run them. SysKit Shell will prepare and deploy the files automatically from the server where it is installed.  
 That way the servers you are monitoring do not require internet connection.
 
