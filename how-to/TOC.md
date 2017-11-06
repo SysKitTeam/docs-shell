@@ -8,3 +8,4 @@ private: true
 ## [Add Service User to Local Administrators Group via Group Policy](add-service-user-group-policy.md)
 ## [Add Service User to Local Administrators Group Manually](add-service-user-manually.md)
 # [Setup SharePoint Scripts](setup-sharepoint-scripts.md)
+# [Use SysKit Shell with a dedicated SQL Server](use-dedicated-sql-server.md)

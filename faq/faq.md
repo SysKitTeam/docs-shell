@@ -16,7 +16,7 @@ Data is stored forever by default. Currently, there are no configuration options
 ### What is the back-end database for the software?
 We use the SQL Server Express 2012 LocalDB as database backend. All the SQL servers, from Microsoft SQL 2008 to SQL 2016, are supported, but with additional configuration steps which need to be performed manually. 
 
-> __Please note!__ If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please [contact us](https://www.syskit.com/company/contact-us). We will provide you with detailed instructions on how to perform the transition.
+> __Please note!__ If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please [read this article](#internal/how-to/use-dedicated-sql-server). It will provide you with detailed instructions on how to perform the transition.
 
 ### Do you support different Active Directory domains?
 Yes, different domains are supported via the delegated trusts between domains. Our software only requires one-way trust to monitor all the different domains from one central location.

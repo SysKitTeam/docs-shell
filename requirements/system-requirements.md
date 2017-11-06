@@ -38,7 +38,7 @@ __LocalDB__ is an instance of SQL Server Express that can create and open SQL Se
 The system database files for the database are stored in the users’ local AppData path which is normally hidden.  
 For example __C:\ProgramData\SysKit\Shell\SysKitShellDatabase__.
 
-If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please [contact us](https://www.syskit.com/company/contact-us). We will provide you with detailed instructions on how to perform the transition.  
+If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please [read this article](#internal/how-to/use-dedicated-sql-server). It will provide you with detailed instructions on how to perform the transition.  
 You can use the following __SQL Server__ editions: __SQL Server 2008 – 2016__, all editions.
 We advise you to use the latest available SQL Server version and apply all the available Service Packs before installing our application.
 
