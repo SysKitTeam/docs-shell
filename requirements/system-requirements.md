@@ -21,7 +21,8 @@ These are minimum hardware requirements for deploying the __SysKit Shell__, in
 
 1. Before installing the SysKit Shell, you need to install __.NET Framework 4.5.2__ or later. We recommend that you install the latest version of .NET from the [Microsoft .NET website](https://www.microsoft.com/NET/).
 2. SysKit Shell requires __PowerShell version 3.0__ or greater to run on a server and to run the scripts on the remote servers.
-3. Before starting the installation process, the SysKit Shell installer will automatically perform the installation of __Microsoft Visual C++ Runtime 14.0__.
+3. SysKit Shell requires __Windows Management Framework 5.0__ or greater to run the PowerShell Gallery cmdlets on the remote servers. [Here you can get](https://www.microsoft.com/en-us/download/details.aspx?id=50395) the latest WMF release.
+4. Before starting the installation process, the SysKit Shell installer will automatically perform the installation of __Microsoft Visual C++ Runtime 14.0__.
 
 ## Operating System
 
