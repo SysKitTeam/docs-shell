@@ -32,7 +32,8 @@ Once the installation is completed, the SysKit Shell will start. If the applicat
 
 ## Set-ExecutionPolicy
 
-Before you can explore the UI and run scripts, there is one more thing to do! You need to change the current user preference for the Windows PowerShell execution policy by running the following command:
+Before you can explore the UI and run scripts, there is one more thing to do! You need to change the current user preference for the Windows PowerShell execution policy by running the command below.  
+Note: Start the Windows PowerShell as the __SysKit Shell service user__.
 
     Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force
 
