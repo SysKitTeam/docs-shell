@@ -12,18 +12,22 @@ In some cases, a PowerShell script within SysKit Shell may need to access resour
 
 For example, when the data from SharePoint server are retrieved and a dedicated SQL Server instance needs to be accessed or when the data from Active Directory are retrieved and an underlying Domain Controller needs to be accessed.
 
-> __Please note!__ Both PowerShell commands have to be executed on the __application server where SysKit Shell is installed__.
+Use the following cmdlet to enable CredSSP on the client by specifying Client in the Role parameter.
 
-Use the following cmdlet to enable CredSSP on the client by specifying Client in the Role parameter. It must be executed for the __remote server(s) where SysKit Shell is executing the script__.
+> __Please note!__ The command must be executed on the __application server where SysKit Shell is installed__, and __for__ the __remote server(s) where SysKit Shell is executing the script__. 
 
 __Enable-WSManCredSSP -Role Client –DelegateComputer *__
 
-These settings allow the client to delegate explicit credentials to a server when server authentication is achieved. Credentials can be delegated to: __one__, __multiple__ or __all__ servers in a domain.
+This policy setting allows the client to delegate explicit credentials to a remote server when server authentication is achieved. Credentials can be delegated to: __one__, __multiple__ or __all__ servers in a domain.
 
 > __Please note!__ If you want to tighten the security risk, instead of an asterisk, it is recommended to enter the FQDN of the remote server(s) where SysKit Shell is executing the script.
 
-Use the following cmdlet to enable CredSSP on the server by specifying Server in Role parametar. It must be executed on the __application server where SysKit Shell is installed__.
+Use the following cmdlet to enable CredSSP on the remote server by specifying Server in Role parametar. It must be executed __on__ the __remote server(s) where SysKit Shell is executing the script__.
 
 __Enable-WSManCredSSP -Role Server__
 
-This policy setting allows the server to act as a delegate for clients.
+This policy setting allows the remote server to act as a delegate for clients, permitting it to use delegated credentials.
+
+The use of these two commands is shown in the image below.
+
+![](/_assets/CredSSPcommands.png)
