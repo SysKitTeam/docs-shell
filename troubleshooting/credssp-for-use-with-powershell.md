@@ -30,4 +30,4 @@ This policy setting allows the remote server to act as a delegate for clients, p
 
 The use of these two commands is shown in the image below.
 
-![](/_assets/CredSSPcommands.png)
+![CredSSP](#img/CredSSPcommands.png)
