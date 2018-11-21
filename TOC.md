@@ -3,7 +3,7 @@ title: Table of Contents
 private: true
 ---
 
-# Getting started
+# System
 
 ## [Requirements](requirements)
 Make sure that your environment and the account used for the application meet SysKit Shell requirements.
