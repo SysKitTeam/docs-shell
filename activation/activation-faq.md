@@ -18,7 +18,7 @@ If you do not activate your product by the end of the 30 day trial period, it wi
 If you cannot find your product activation information, you should send in a support request to our [support team](https://www.syskit.com/company/contact-us).
 
 ### How can I activate my product?
-You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to Internet, please use [offline activation](#internal/activation/online-offline-activation/#offline-activation).
+You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to Internet, please use [offline activation](/activation/online-offline-activation/#offline-activation).
 
 ### What does SysKit do with the information sent during the product activation process?
 We use this information only to verify that your product is used within the scope of the SysKit End-User License Agreement (EULA). The information is stored in a database and used only for product activation data. If you register your product, none of the activation information will ever be linked to your personal customer information.
