@@ -1,49 +1,53 @@
 ---
 title: Online and Offline Activation
-description: This article outlines the steps needed to perform online or offline product activation.
+description: >-
+  This article outlines the steps needed to perform online or offline product
+  activation.
 author: Andrea Budisa
 date: 30/10/2017
 ---
-### Online Activation
 
-In order to activate your copy of the SysKit Shell __online__, please proceed with the following steps:
+# online-offline-activation
 
-1. Navigate to the __About__ dialog by clicking on the __Info__ icon in the left upper corner, and then click the __Activate__ button.
-2. Fill in all the required fields by using the __email account__ and __password__.
+## Online Activation
 
-   >  __Please note!__ You need to change the __temporary password__ that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
+In order to activate your copy of the SysKit Shell **online**, please proceed with the following steps:
 
-3. Click the __Activate__ button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
+1. Navigate to the **About** dialog by clicking on the **Info** icon in the left upper corner, and then click the **Activate** button.
+2. Fill in all the required fields by using the **email account** and **password**.
 
-You can activate your license on a __purchased number of servers__ while your subscription is active.
+   > **Please note!** You need to change the **temporary password** that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
 
-At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
-If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
+3. Click the **Activate** button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
 
-### Offline Activation
-
-Customers that have no internet access on their servers will need to activate SysKit Shell __manually__. In order to activate your copy of the SysKit Shell manually, please proceed with the following steps:
-
-1. Navigate to the __About__ dialog by clicking on the __Info__ icon in the left upper corner, and then click the __Activate__ button.
-
-2. In the Activate SysKit Shell dialog, click the __offline activation__ link. In the newly opened activation dialog, follow these steps in order to create your activation files:
-    + Click on the __Generate__ button to generate a __License Details (.dlic) file__.
-    + Navigate to the [Activation Page](https://my.syskit.com/activation/?P=Shell) and select the __Version__ of SysKit Shell you are creating a license for.
-    + On the Activation Page, login with your __email account__ and __password__.
-
-       >  __Please note!__ You need to change the __temporary password__ that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
-    
-    + Upload the __License Details (.dlic) file__.
-    + Click the __Generate license file!__ button and download the __license file (.lic)__.
-
-3. Return to the SysKit Shell application and import the license file by clicking the __Browse...__ button, locating your license file and opening it.
-
-4. Click the __Activate__ button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
-   > __Please note!__ The __license file (.lic)__ is only valid for the user account and server where the __License Details (.dlic)__ file was generated in step 2.
-
-You can activate your license on a __purchased number of servers__ while your subscription is active. Please keep in mind that the __License Details (.dlic) file__ needs to be generated and on each server covered by your license, separately. 
+You can activate your license on a **purchased number of servers** while your subscription is active.
 
 At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
 If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
 
-See [Activation FAQ](#internal/activation/activation-faq/) to learn more about SysKit Shell activation.
+## Offline Activation
+
+Customers that have no internet access on their servers will need to activate SysKit Shell **manually**. In order to activate your copy of the SysKit Shell manually, please proceed with the following steps:
+
+1. Navigate to the **About** dialog by clicking on the **Info** icon in the left upper corner, and then click the **Activate** button.
+2. In the Activate SysKit Shell dialog, click the **offline activation** link. In the newly opened activation dialog, follow these steps in order to create your activation files:
+   * Click on the **Generate** button to generate a **License Details \(.dlic\) file**.
+   * Navigate to the [Activation Page](https://my.syskit.com/activation/?P=Shell) and select the **Version** of SysKit Shell you are creating a license for.
+   * On the Activation Page, login with your **email account** and **password**.
+
+     > **Please note!** You need to change the **temporary password** that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
+
+   * Upload the **License Details \(.dlic\) file**.
+   * Click the **Generate license file!** button and download the **license file \(.lic\)**.
+3. Return to the SysKit Shell application and import the license file by clicking the **Browse...** button, locating your license file and opening it.
+4. Click the **Activate** button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
+
+   > **Please note!** The **license file \(.lic\)** is only valid for the user account and server where the **License Details \(.dlic\)** file was generated in step 2.
+
+You can activate your license on a **purchased number of servers** while your subscription is active. Please keep in mind that the **License Details \(.dlic\) file** needs to be generated and on each server covered by your license, separately.
+
+At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
+If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
+
+See [Activation FAQ](online-offline-activation.md#internal/activation/activation-faq/) to learn more about SysKit Shell activation.
+
