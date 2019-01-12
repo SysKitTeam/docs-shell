@@ -15,7 +15,7 @@ For example, when the data from SharePoint server are retrieved and a dedicated 
 
 To setup the SharePoint Scripts within SysKit Shell to return the desired results, please follow these steps:
 
-1. Read the [Configure CredSSP for use with PowerShell in SysKit Shell](setup-sharepoint-scripts.md#internal/troubleshooting/credssp-for-use-with-powershell) article and **execute a set of cmdlets** to enable the CredSSP authentication on a server where the SysKit Shell is installed.
+1. Read the [Configure CredSSP for use with PowerShell in SysKit Shell](../troubleshooting/credssp-for-use-with-powershell.md) article and **execute a set of cmdlets** to enable the CredSSP authentication on a server where the SysKit Shell is installed.
 2. Return to the SysKit Shell and **edit** one by one script in the SharePoint category.
 3. Select the desired SharePoint script and click the **Edit** button in the left navigation. The **Edit Script** wizard will open. Click **Next** and in **Edit PowerShell** step, enable the **Use CredSSp PowerShell authentication** option.
 4. Fill in the **Username** and **Password** fields by reentering the service credentials. The script first needs to be tested on a selected server. SysKit Shell will run it against the server that you specify.

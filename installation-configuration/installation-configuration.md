@@ -9,7 +9,7 @@ date: 25/10/2017
 
 # Install and Configure SysKit Shell
 
-Before you begin with the SysKit Shell installation, we recommend that you carefully perform all preparation steps by reading the [Pre-Installation Requirements](installation-configuration.md#internal/requirements/pre-installation-requirements) article.
+Before you begin with the SysKit Shell installation, we recommend that you carefully perform all preparation steps by reading the [Pre-Installation Requirements](../requirements/pre-installation-requirements.md) article.
 
 ## Installing SysKit Shell
 

@@ -13,5 +13,5 @@ SysKit is asking you to activate your copy of the SysKit Shell so we may verify 
 
 Activation is based on a number of factors that are being calculated during the activation processes. The activation process identifies only the computer, but it does not include the information about your software or data that resides on your computer, or any other information about your computer model or environment.
 
-If you wish to perform your activation offline, please follow [these](activation-privacy-statement.md#internal/activation/online-offline-activation/) instructions.
+If you wish to perform your activation offline, please follow [these](../activation/online-offline-activation.md) instructions.
 

@@ -15,8 +15,8 @@ The installation process consists of a few easy steps that you need to perform i
 
 SysKit Shell requires a service account in order to run. We recommend creating a dedicated Windows account for this purpose.
 
-* This account needs to have administrative privileges on each server you plan to monitor. You can configure this [manually](pre-installation-requirements.md#internal/how-to/service-accounts/add-service-user-manually) or via [Group Policy](pre-installation-requirements.md#internal/how-to/service-accounts/add-service-user-group-policy).
-* This account needs to have the [Logon as a service](pre-installation-requirements.md#internal/how-to/service-accounts/add-service-user-group-policy) privileges.
+* This account needs to have administrative privileges on each server you plan to monitor. You can configure this [manually](../how-to/service-accounts/add-service-user-manually.md) or via [Group Policy](../how-to/service-accounts/add-service-user-group-policy.md).
+* This account needs to have the [Logon as a service](../how-to/service-accounts/add-service-user-group-policy.md) privileges.
 
 > **Please note!** As a best practice, we recommend setting a service user that is in the Adminstrators or Domain Admins group.
 
@@ -24,7 +24,7 @@ SysKit Shell requires a service account in order to run. We recommend creating a
 
 SysKit Shell Setup will install and configure a new instance of **SQL Server Express 2012 LocalDB** \(free of charge\). This is the quickest option. We take care of the configuration.
 
-If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please [read this article](pre-installation-requirements.md#internal/how-to/use-dedicated-sql-server). It will provide you with detailed instructions on how to perform the transition.  
+If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please [read this article](../how-to/use-dedicated-sql-server.md). It will provide you with detailed instructions on how to perform the transition.  
 You can use the following **SQL Server** editions: **SQL Server 2008 – 2016**, all editions. We advise you to use the latest available SQL Server version and apply all the available Service Packs before installing our application.
 
 ## Get PowerShellGet Module
@@ -91,7 +91,7 @@ Exit
 
 ## Install SysKit Shell
 
-If you have created a service account, and have follwed the above procedure for updating PowerShellGet module and Nuget provider, you can proceed with the SysKit Shell [Installation Wizard](pre-installation-requirements.md#internal/installation-configuration/installation-configuration).  
+If you have created a service account, and have follwed the above procedure for updating PowerShellGet module and Nuget provider, you can proceed with the SysKit Shell [Installation Wizard](../installation-configuration/installation-configuration.md).  
 In case you haven't followed the steps described above, the SysKit Shell will provide you feedback through informative messages.
 
 If you need help with the installation, please [contact us](https://www.syskit.com/company/contact-us).
