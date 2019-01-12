@@ -49,5 +49,5 @@ You can activate your license on a **purchased number of servers** while your su
 At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
 If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
 
-See [Activation FAQ](../activation/activation-faq.md) to learn more about SysKit Shell activation.
+See [Activation FAQ](activation-faq.md) to learn more about SysKit Shell activation.
 

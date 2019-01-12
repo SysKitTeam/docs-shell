@@ -13,9 +13,9 @@ date: 25/10/2017
 2. Open **Computer Management** under Administrative tools on each server.
 3. Select **Local Users and Groups** in the left navigation and then **Groups**.
 4. Double-click the **Administrators** security group.
-5. Add the SysKit Shell service user simply by clicking **Add** and typing the name of your SysKit Shell **service user** \(usually\).  
+5. Add the SysKit Shell service user simply by clicking **Add** and typing the name of your SysKit Shell **service user** \(usually\).
 
    After adding the service user, the Administrators security group will have the members listed similarly to the following: Administrator, domain\Domain Admins.
 
-> **Please note!** You need to repeat this procedure for every server you plan to monitor with the SysKit Shell. If you plan to monitor multiple servers, we recommend adding the SysKit Shell service user via [Group Policy](../how-to/service-accounts/add-service-user-group-policy.md).
+> **Please note!** You need to repeat this procedure for every server you plan to monitor with the SysKit Shell. If you plan to monitor multiple servers, we recommend adding the SysKit Shell service user via [Group Policy](https://github.com/SysKitTeam/docs-shell/tree/db0decae97d360666f41f87a45a80570889004d4/how-to/how-to/service-accounts/add-service-user-group-policy.md).
 
