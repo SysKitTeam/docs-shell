@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [SysKit Shell](README.md)
 * [Product Updates](product-updates/README.md)
   * [SysKit Shell – Document and script all the things!](product-updates/syskit-shell-release-note.md)
 * [FAQ](faq.md)
