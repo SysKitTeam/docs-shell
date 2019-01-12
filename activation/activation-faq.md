@@ -27,7 +27,7 @@ If you cannot find your product activation information, you should send in a sup
 
 ## How can I activate my product?
 
-You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to Internet, please use [offline activation](../activation/online-offline-activation.md).
+You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to Internet, please use [offline activation](online-offline-activation.md).
 
 ## What does SysKit do with the information sent during the product activation process?
 

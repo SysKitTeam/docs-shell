@@ -7,7 +7,7 @@ author: Andrea Budisa
 date: 25/10/2017
 ---
 
-# installation-configuration
+# Install and Configure SysKit Shell
 
 Before you begin with the SysKit Shell installation, we recommend that you carefully perform all preparation steps by reading the [Pre-Installation Requirements](installation-configuration.md#internal/requirements/pre-installation-requirements) article.
 
@@ -24,7 +24,7 @@ To install the SysKit Shell, proceed with the following steps:
 5. You can change the folder name where the application shortcuts will be created and modify the availability option to install the SysKit Shell for **All users** or **Only for the current user**. Click **Next &gt;** to proceed.
 6. In this step you need to enter information about the Service Account that will be used for running the SysKit Shell Service. This account will be used to gather data from your server\(s\). Enter the custom user account in the following format: **DOMAIN\USERNAME**.
 
-   > **Please note!** The service user must be in the local admin group to proceed with this step. For more information about the service account configuration, read the [Add Service User to a Local Administrators Group via Group Policy](installation-configuration.md#internal/how-to/service-accounts/add-service-user-group-policy) article.
+   > **Please note!** The service user must be in the local admin group to proceed with this step. For more information about the service account configuration, read the Add Service User to a Local Administrators Group via Group Policy article.
 
    Click **Next &gt;** to check and validate the credentials.
 
