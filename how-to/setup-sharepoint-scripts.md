@@ -7,7 +7,7 @@ author: Andrea Budisa
 date: 31/10/2017
 ---
 
-# setup-sharepoint-scripts
+# Setup SharePoint Scripts
 
 In some cases, a PowerShell script within SysKit Shell may need to access resources outside the remote server machine. This requires the credentials to be delegated to the target machine.
 

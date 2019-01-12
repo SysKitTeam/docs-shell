@@ -7,7 +7,7 @@ author: Andrea Budisa
 date: 30/10/2017
 ---
 
-# activation-faq
+# Activation FAQ
 
 ## What happens during product activation?
 

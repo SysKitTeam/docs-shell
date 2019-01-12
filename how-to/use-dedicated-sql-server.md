@@ -7,7 +7,7 @@ author: Andrea Budisa
 date: 30/10/2017
 ---
 
-# use-dedicated-sql-server
+# Use SysKit Shell with a dedicated SQL Server
 
 If you want to use a dedicated SQL Server database with SysKit Shell, please perform the following steps:
 

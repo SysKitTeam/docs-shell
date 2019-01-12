@@ -7,7 +7,7 @@ author: Andrea Budisa
 date: 30/10/2017
 ---
 
-# online-offline-activation
+# Online and Offline Activation
 
 ## Online Activation
 

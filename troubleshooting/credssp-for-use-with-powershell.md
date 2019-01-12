@@ -7,7 +7,7 @@ description: >-
 date: 25/10/17
 ---
 
-# credssp-for-use-with-powershell
+# Configuring CredSSP for use with PowerShell in SysKit Shell
 
 Windows Remote Management \(WinRM\) supports the delegation of user credentials across multiple remote computers. The multi-hop support functionality can use Credential Security Service Provider \(CredSSP\) for authentication. CredSSP enables an application to delegate the user’s credentials from the client computer to the target server.
 
@@ -35,5 +35,5 @@ This policy setting allows the remote server to act as a delegate for clients, p
 
 The use of these two commands is shown in the image below.
 
-![CredSSP](https://github.com/SysKitTeam/docs-shell/tree/fdfa475afe9da7e0a7441db7d0564da5a52cb19f/troubleshooting/#img/CredSSPcommands.png)
+![](../.gitbook/assets/credsspcommands.png)
 

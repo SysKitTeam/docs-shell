@@ -7,7 +7,7 @@ author: Andrea Budisa
 date: 30/10/2017
 ---
 
-# activation-privacy-statement
+# Activation Privacy Statement
 
 SysKit is asking you to activate your copy of the SysKit Shell so we may verify if your product was purchased legally. During the activation process, your personal data and your product key will not be sent to SysKit.
 
