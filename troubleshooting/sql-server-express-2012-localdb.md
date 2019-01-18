@@ -2,15 +2,12 @@
 title: SQL Server Express 2012 LocalDB
 author: Andrea Budisa
 description: >-
-  This article explains how to troubleshoot issues caused by LocalDB while
-  attempting to access an existing instance using a different username or
-  account.
+  This article is intended for advanced users, administrators, and IT
+  professionals.
 date: 25/10/17
 ---
 
 # SQL Server Express 2012 LocalDB
-
-This article is intended for advanced users, administrators, and IT professionals.
 
 If you are using **Microsoft SQL Server 2012 Express LocalDB** as a database backend with SysKit Shell, there can be permission issues while attempting to access an existing LocalDB instance using a different username or account. These configuration issues can arise when upgrading the application to a new version and using a different user account.
 
@@ -18,7 +15,9 @@ By default, access to the instance of LocalDB is **limited to its owner**. The d
 
 If you are having connection problems and getting errors while accessing the LocalDB instance, we recommend that you **delete the instance** owned by the other user and create a new instance under a different user.
 
-> **Please note**! If you want to use a different user account, the existing database cannot be used!
+{% hint style="warning" %}
+**Please note**! If you want to use a different user account, the existing database cannot be used!
+{% endhint %}
 
 To delete completely the LocalDB instance that is owned by the old user, open **Regedit.exe** and search for “**SysKitShellInstance**”. You will get the following result:
 

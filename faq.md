@@ -19,8 +19,6 @@ We use the SQL Server Express 2012 LocalDB as database backend. All the SQL serv
 If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please read the following article. It will provide you with detailed instructions on how to perform the transition.
 {% endhint %}
 
-> **Please note!** If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please [read this article](how-to/use-dedicated-sql-server.md). It will provide you with detailed instructions on how to perform the transition.
-
 {% page-ref page="how-to/use-dedicated-sql-server.md" %}
 
 ## Do you support different Active Directory domains?

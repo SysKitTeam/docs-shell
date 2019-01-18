@@ -9,8 +9,6 @@ date: 30/10/2017
 
 # Pre-Installation Requirements
 
-The installation process consists of a few easy steps that you need to perform in order to get the SysKit Shell up and running.
-
 ## Configure Active Directory
 
 SysKit Shell requires a service account in order to run. We recommend creating a dedicated Windows account for this purpose.
@@ -18,7 +16,9 @@ SysKit Shell requires a service account in order to run. We recommend creating a
 * This account needs to have administrative privileges on each server you plan to monitor. You can configure this [manually](../how-to/service-accounts/add-service-user-manually.md) or via [Group Policy](../how-to/service-accounts/add-service-user-group-policy.md).
 * This account needs to have the [Logon as a service](../how-to/service-accounts/add-service-user-group-policy.md) privileges.
 
-> **Please note!** As a best practice, we recommend setting a service user that is in the Adminstrators or Domain Admins group.
+{% hint style="warning" %}
+**Please note!** As a best practice, we recommend setting a service user that is in the Adminstrators or Domain Admins group.
+{% endhint %}
 
 ## SQL Server is configured automatically
 

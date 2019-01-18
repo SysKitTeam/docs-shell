@@ -19,13 +19,17 @@ For example, when the data from SharePoint server are retrieved and a dedicated 
 
 Use the following cmdlet to enable CredSSP on the client by specifying Client in the Role parameter.
 
-> **Please note!** The command must be executed on the **application server where SysKit Shell is installed**, and **for** the **remote server\(s\) where SysKit Shell is executing the script**.
+{% hint style="warning" %}
+**Please note!** The command must be executed on the **application server where SysKit Shell is installed**, and **for** the **remote server\(s\) where SysKit Shell is executing the script**.
+{% endhint %}
 
 **Enable-WSManCredSSP -Role Client –DelegateComputer \***
 
 This policy setting allows the client to delegate explicit credentials to a remote server when server authentication is achieved. Credentials can be delegated to: **one**, **multiple** or **all** servers in a domain.
 
-> **Please note!** If you want to tighten the security risk, instead of an asterisk, it is recommended to enter the FQDN of the remote server\(s\) where SysKit Shell is executing the script.
+{% hint style="warning" %}
+**Please note!** If you want to tighten the security risk, instead of an asterisk, it is recommended to enter the FQDN of the remote server\(s\) where SysKit Shell is executing the script.
+{% endhint %}
 
 Use the following cmdlet to enable CredSSP on the remote server by specifying Server in Role parametar. It must be executed **on** the **remote server\(s\) where SysKit Shell is executing the script**.
 

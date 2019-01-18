@@ -40,10 +40,12 @@ The SysKit Shell runs on Windows Server 2008 R2 or later. We recommend that you 
 In order to run the SysKit Shell, you need a database. The SysKit Shell supports **SQL Server databases only**.  
 In the installation process, the SysKit Shell Setup will install and configure a new instance of **SQL Server Express 2012 LocalDB** \(free of charge\). This is the quickest option. We take care of the configuration.
 
-> **Learn more about the LocalDB**  
-> **LocalDB** is an instance of SQL Server Express that can create and open SQL Server databases. Once LocalDB is installed, the necessary SQL Server infrastructure is automatically created and started, enabling the application to use the database without complex configuration tasks.  
-> The system database files for the database are stored in the users’ local AppData path which is normally hidden.  
-> For example **C:\ProgramData\SysKit\Shell\SysKitShellDatabase**.
+{% hint style="info" %}
+**Learn more about the LocalDB**  
+**LocalDB** is an instance of SQL Server Express that can create and open SQL Server databases. Once LocalDB is installed, the necessary SQL Server infrastructure is automatically created and started, enabling the application to use the database without complex configuration tasks.  
+The system database files for the database are stored in the users’ local AppData path which is normally hidden.  
+For example **C:\ProgramData\SysKit\Shell\SysKitShellDatabase**.
+{% endhint %}
 
 If you want to use SysKit Shell with a dedicated SQL Server located somewhere in your environment, please read [this article.](../how-to/use-dedicated-sql-server.md) It will provide you with detailed instructions on how to perform the transition.  
 You can use the following **SQL Server** editions: **SQL Server 2008 – 2016**, all editions. We advise you to use the latest available SQL Server version and apply all the available Service Packs before installing our application.

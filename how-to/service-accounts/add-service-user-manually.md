@@ -17,7 +17,9 @@ date: 25/10/2017
 
    After adding the service user, the Administrators security group will have the members listed similarly to the following: Administrator, domain\Domain Admins.
 
-> **Please note!** You need to repeat this procedure for every server you plan to monitor with the SysKit Shell. If you plan to monitor multiple servers, we recommend adding the SysKit Shell service user via [Group Policy.](add-service-user-group-policy.md#add-service-user-to-local-administrators-security-group-through-restricted-groups)
+{% hint style="warning" %}
+**Please note!** You need to repeat this procedure for every server you plan to monitor with the SysKit Shell. If you plan to monitor multiple servers, we recommend adding the SysKit Shell service user via [Group Policy.](add-service-user-group-policy.md#add-service-user-to-local-administrators-security-group-through-restricted-groups)
+{% endhint %}
 
 
 
