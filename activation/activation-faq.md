@@ -59,7 +59,11 @@ It is allowed to activate the SysKit Shell license on one server only. If you wa
 
 ## How can I change the SysKit Shell license key?
 
-To remove your current SysKit Shell license key and add a new license key, please follow these steps: 1. Navigate to the **About** dialog by clicking on the **Info** icon in the left upper corner, and then click the **Deactivate** button. 2. Click the **Activate** button and in the newly opened activation dialog, fill in all the required fields by using the **email account** and **password**. 3. Click the **Activate** button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
+To remove your current SysKit Shell license key and add a new license key, please follow these steps:
+
+1. Navigate to the **About** dialog by clicking on the **Info** icon in the left upper corner, and then click the **Deactivate** button.
+2. Click the **Activate** button and in the newly opened activation dialog, fill in all the required fields by using the **email account** and **password**.
+3. Click the **Activate** button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
 
 At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.
 

@@ -15,10 +15,11 @@ In order to activate your copy of the SysKit Shell **online**, please proceed wi
 
 1. Navigate to the **About** dialog by clicking on the **Info** icon in the left upper corner, and then click the **Activate** button.
 2. Fill in all the required fields by using the **email account** and **password**.
-
-   > **Please note!** You need to change the **temporary password** that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
-
 3. Click the **Activate** button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
+
+{% hint style="warning" %}
+**Please note!** You need to change the temporary password that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
+{% endhint %}
 
 You can activate your license on a **purchased number of servers** while your subscription is active.
 
@@ -42,7 +43,9 @@ Customers that have no internet access on their servers will need to activate Sy
 3. Return to the SysKit Shell application and import the license file by clicking the **Browse...** button, locating your license file and opening it.
 4. Click the **Activate** button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
 
-   > **Please note!** The **license file \(.lic\)** is only valid for the user account and server where the **License Details \(.dlic\)** file was generated in step 2.
+{% hint style="warning" %}
+**Please note!** The license file \(.lic\) is only valid for the user account and server where the License Details \(.dlic\) file was generated in step 2.
+{% endhint %}
 
 You can activate your license on a **purchased number of servers** while your subscription is active. Please keep in mind that the **License Details \(.dlic\) file** needs to be generated and on each server covered by your license, separately.
 
