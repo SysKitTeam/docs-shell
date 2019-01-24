@@ -52,5 +52,5 @@ The software requires per user activation, and pursuant to our agreement and ter
 
 ## Do you offer a free trial?
 
-Yes, we offer a [fully featured 30-day trial](https://www.syskit.com/products/shell/download). During those 30 days, you will receive all the support you need with the software. You can easily contact our [support team](https://www.syskit.com/company/contact-us).
+Yes, we offer a fully featured 30-day trial. During those 30 days, you will receive all the support you need with the software. You can easily contact our [support team](https://www.syskit.com/company/contact-us).
 

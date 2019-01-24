@@ -17,7 +17,7 @@ Our application just needs to be installed on a single server, which will then b
 
 To install the SysKit Shell, proceed with the following steps:
 
-1. [Download](https://www.syskit.com/products/shell/download) the newest release.
+1. Download the newest release.
 2. Unpack and run the **SysKitShellSetup.exe**. The wizard will guide you through the installation steps, click **Next &gt;** to proceed.
 3. Click **I Accept the terms of the license agreement** to accept the license and then click **Next &gt;** to proceed.
 4. Select the destination folder for the application installation files, e.g., C:\Program Files\SysKit\Shell. Click **Next &gt;** to proceed.
