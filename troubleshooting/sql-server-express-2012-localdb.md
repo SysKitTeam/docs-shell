@@ -32,5 +32,9 @@ Afterwards, start the Command Prompt as an administrator and perform the followi
 1. **sqllocaldb create “SysKitShellInstance”** – creates a new of instance of SQL Server Express LocalDB.
 2. **sqllocaldb start “SysKitShellInstance”** – starts the specified instance of SQL Server Express LocalDB.
 
-The newly created LocalDB instance should be up and running now and ready for use in the **SysKit Shell**. If you are having trouble accessing the instance, check its status by entering the following command: sqllocaldb info “SysKitShellInstance”.
+The newly created LocalDB instance should be up and running now and ready for use in the **SysKit Shell**. If you are having trouble accessing the instance, check its status by entering the following command: 
+
+```text
+sqllocaldb info “SysKitShellInstance”
+```
 
