@@ -1,4 +1,2 @@
 # Product Updates
 
-
-

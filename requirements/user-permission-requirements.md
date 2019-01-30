@@ -6,7 +6,6 @@ desription: >-
   that affect account requirements.
 author: Andrea Budisa
 date: 30/10/2017
-description: Please read this article before choosing your service account.
 ---
 
 # User Permission Requirements

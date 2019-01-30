@@ -2,8 +2,9 @@
 title: SQL Server Express 2012 LocalDB
 author: Andrea Budisa
 description: >-
-  This article is intended for advanced users, administrators, and IT
-  professionals.
+  This article explains how to troubleshoot issues caused by LocalDB while
+  attempting to access an existing instance using a different username or
+  account.
 date: 25/10/17
 ---
 
